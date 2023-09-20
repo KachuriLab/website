@@ -1,8 +1,7 @@
 - id: doi:10.1038/s41576-023-00637-2
   type: paper
   description: Describe the publication with **markdown** in `citations.yaml`. Others are pulled in from `orchid.yaml`, which contains your **orchid id**
-  date: 2023-8-24
-  image: https://snipboard.io/9eLJvz.jpg
+  image: images/publications/principles.png
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
@@ -10,17 +9,15 @@
       text: Manuscript Source
       link: https://www.nature.com/articles/s41591-023-02277-9
   tags:
-    - PRS
-    - Genetic ancestries
-    - Cool shit
+    - prs
+    - ancestry
   repo: KachuriLab
 
 # If you want to style the other sources a bit more instead of pulling them all in with orchid.yaml. They won't be duplicated.
 - id: doi:10.1038/s41591-023-02277-9
   type: paper
   description: This paper is given more detal in `sources.yaml` but is not highlighted
-  date: 2023-8-24
-  image: https://snipboard.io/iYBDXc.jpg
+  image: images/publications/genetically.png
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
@@ -28,5 +25,30 @@
       text: Manuscript Source
       link: https://www.nature.com/articles/s41591-023-02277-9
   tags:
-    - Tag
+    - psa
   repo: KachuriLab
+
+
+- id: doi:10.1038/s41588-023-01377-z
+  type: paper
+  image: images/publications/gene_expression.png
+  buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://www.nature.com/articles/s41588-023-01377-z
+  tags:
+    - ancestry
+
+- id: doi:10.1101/2023.05.04.23289526
+  type: paper
+  image: images/publications/transcriptome.png
+  buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://www.nature.com/articles/s41588-023-01377-z
+  tags:
+    - twas

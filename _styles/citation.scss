@@ -17,14 +17,15 @@ $wrap: 800px;
   position: relative;
   width: $thumb-size;
   flex-shrink: 0;
+  margin-left: 10px;
   // box-shadow: var(--shadow);
 }
 
 .citation-image img {
   position: absolute;
   inset: 0;
-  width: 100%;
-  height: 100%;
+  width: 250px;
+  height: 250px;
   object-fit: contain;
 }
 

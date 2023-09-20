@@ -30,7 +30,7 @@
   type: paper
   description: Describe the publication with **markdown** in `citations.yaml`. Others
     are pulled in from `orchid.yaml`, which contains your **orchid id**
-  image: https://snipboard.io/9eLJvz.jpg
+  image: images/publications/principles.png
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -38,9 +38,8 @@
     text: Manuscript Source
     link: https://www.nature.com/articles/s41591-023-02277-9
   tags:
-  - PRS
-  - Genetic ancestries
-  - Cool shit
+  - prs
+  - ancestry
   repo: KachuriLab
 - id: doi:10.1038/s41588-023-01377-z
   title: Gene expression in African Americans, Puerto Ricans and Mexican Americans
@@ -69,9 +68,18 @@
   date: '2023-05-25'
   link: https://doi.org/gr9fq8
   orcid: 0000-0002-3226-4727
-  plugin: orcid.py
-  file: orcid.yaml
-  image: /images/generic_publication.png
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/gene_expression.png
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://www.nature.com/articles/s41588-023-01377-z
+  tags:
+  - ancestry
 - id: doi:10.1038/s41591-023-02277-9
   title: Genetically adjusted PSA levels for prostate cancer screening
   authors:
@@ -99,14 +107,14 @@
   - Rebecca E. Graff
   - John S. Witte
   publisher: Nature Medicine
-  date: '2023-08-24'
+  date: '2023-06-01'
   link: https://doi.org/gsb2r4
   orcid: 0000-0002-3226-4727
   plugin: sources.py
   file: sources.yaml
   type: paper
   description: This paper is given more detal in `sources.yaml` but is not highlighted
-  image: https://snipboard.io/iYBDXc.jpg
+  image: images/publications/genetically.png
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -114,7 +122,7 @@
     text: Manuscript Source
     link: https://www.nature.com/articles/s41591-023-02277-9
   tags:
-  - Tag
+  - psa
   repo: KachuriLab
 - id: doi:10.1101/2023.05.04.23289526
   title: Transcriptome-Wide Association Analysis Identifies Novel Candidate Susceptibility
@@ -145,9 +153,18 @@
   date: '2023-05-05'
   link: https://doi.org/gr9q24
   orcid: 0000-0002-3226-4727
-  plugin: orcid.py
-  file: orcid.yaml
-  image: /images/generic_publication.png
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/publications/transcriptome.png
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://www.nature.com/articles/s41588-023-01377-z
+  tags:
+  - twas
 - id: doi:10.1158/0008-5472.c.6513064.v1
   title: Data from A Large-Scale Association Study Detects Novel Rare Variants, Risk
     Genes, Functional Elements, and Polygenic Architecture of Prostate Cancer Susceptibility

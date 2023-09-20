@@ -3,63 +3,56 @@
 
 # KachuriLab's Website
 
-An engaging 1-3 sentence description of your lab.
+A 1-3 sentence description of your lab.
 
 {% include section.html %}
 
 ## Highlights
 
+
 {% capture text %}
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/research.png"
-  link="research"
-  title="Our Research"
+  image="images/publications.png"
+  link="publications"
+  title="Our Lab Publications"
   text=text
 %}
 
+
 {% capture text %}
-
-**Projects** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+**Research** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Browse research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/projects.png"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Our Research Projects"
   style="bare"
   text=text
 %}
 
+
 {% capture text %}
-
 **TEAM** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="team"
@@ -68,9 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
-
 {%
   include feature.html
   image="images/team.png"
