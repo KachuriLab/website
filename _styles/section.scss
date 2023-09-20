@@ -10,7 +10,7 @@ section {
 }
 
 section[data-size="wide"] {
-  padding: $padding;
+  padding: $padding max($padding, calc((80% - $page) / 2));
 }
 
 section[data-size="full"] {

@@ -54,7 +54,7 @@ plugins:
 highlighter: rouge
 
 # jekyll theme
-theme: null
+#theme: null
 baseurl: "/jekyll-serif-theme/"
 
 # sass settings

@@ -1,46 +1,42 @@
-- title: Cool Dataset
-  subtitle: UK Biobank or something
+- title: The UK Biobank
+  subtitle: 250,000+ participants
   group: featured
   image: https://snipboard.io/sSHhGJ.jpg
   link: https://www.ukbiobank.ac.uk/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - resource
+    - dataset
 
-- title: Cool Package
-  subtitle: Could link to a software package on github
+- title: BAGELab UKB Tools
+  subtitle: To do stuff with UKB data
   group: featured
-  image: images/blank.png
-  link: https://github.com/
+  image: https://avatars.githubusercontent.com/u/139590349?s=400&u=aeeb7522b42c07f8f1fd09092f55ec72894b7883&v=4
+  link: https://github.com/BAGELabs/ukb_tools
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: KachuriLab/
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Develop deep learning approaches to model and generate disease trajectories from nation-wide registries
+  image: https://images.squarespace-cdn.com/content/v1/5c7eb8670cf57dfd045097a1/1551879358259-PF2JYC8V4ZRLYY9L6OPX/grant_schema_Aof.png?format=2500w
+  link: https://github.com/
+  description: We aim to develop novel deep-learning approaches based on long short-term memory recurrent neural networks that leverage nation-wide information about diagnoses, medications, familial risk and socio-demographic indicators at an unprecedented scale to provide an accurate risk assessment of cardiometabolic diseases before “the patient steps into doctor’s office”. Moreover, for younger individuals, who have had a limited contact with the healthcare system or, for individuals with specific health trajectories, we aim to study if genetic information can provide additional predictive value. Finally, recognizing the privacy challenges of using nation-wide data, we will use deep-learning-based methods that minimize privacy loss. In particular, we will generate synthetic health-trajectories using generative adversarial networks.
+
+- title: The COVID-19 Host Genetics Initiative
+  image: https://images.squarespace-cdn.com/content/v1/5c7eb8670cf57dfd045097a1/1615182910355-PULXDXOAM1ZP5E8K2XB0/header-transparent.png?format=2500w
+  link: https://github.com/
+  description: We are leading the COVID-19 host genetics initiative. This is an international consortium that brings together the human genetics community to generate, share, and analyze data to learn the genetic determinants of COVID-19 susceptibility, severity, and outcomes. Such discoveries could help to generate hypotheses for drug repurposing, identify individuals at unusually high or low risk, and contribute to global knowledge of the biology of SARS-CoV-2 infection and disease. We are conducting GWAS meta-analyses of more than 2 million individuals and performing in-silico follow-up analyses.
+
+- title: FinRegistry
+  image: https://images.squarespace-cdn.com/content/v1/5c7eb8670cf57dfd045097a1/1615553478409-DP38NWLL55AS6BR9A5JO/FinRegistry_registries.png?format=2500w
+  link: https://finregistry.fi
+  description: FinRegistry uses nationwide registry data to better understand and predict the onset of diseases in the Finnish population. We combine health data with a wide range of other information from nearly the whole Finnish population. The research data include information about diagnoses, treatment of diseases, medications, home care, and institutional care. On top of that, it includes basic personal information, family relations, living history, marriage history, pregnancies and births, education, job position, social assistance, and death times and reasons. By leveraging this high-resolution longitudinal data, we aim to develop new ways to model the complex relationships between health and risk factors. FinRegistry is a joint research project with the Finnish Institute for Health and Welfare (THL).
+
+- title: Another example
+  subtitle: with a subtitle and tags
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor
   tags:
+    - resource
     - software
+    - dataset
