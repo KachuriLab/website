@@ -4,7 +4,7 @@ section {
 }
 
 section[data-size=wide] {
-  padding: 40px;
+  padding: 40px max(40px, (80% - 1000px) / 2);
 }
 
 section[data-size=full] {
