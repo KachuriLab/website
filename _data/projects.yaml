@@ -1,20 +1,19 @@
 - title: Cool Dataset
-  subtitle: a subtitle
+  subtitle: UK Biobank or something
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+  image: https://snipboard.io/sSHhGJ.jpg
+  link: https://www.ukbiobank.ac.uk/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
     - resource
 
 - title: Cool Package
-  subtitle: a subtitle
+  subtitle: Could link to a software package on github
   group: featured
-  image: images/photo.jpg
+  image: images/blank.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: KachuriLab/
   tags:
     - resource
 

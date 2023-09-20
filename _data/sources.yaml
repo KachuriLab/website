@@ -1,23 +1,32 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1038/s41576-023-00637-2
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: Describe the publication with **markdown** in `citations.yaml`. Others are pulled in from `orchid.yaml`, which contains your **orchid id**
+  date: 2023-8-24
+  image: https://snipboard.io/9eLJvz.jpg
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      link: https://www.nature.com/articles/s41591-023-02277-9
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - PRS
+    - Genetic ancestries
+    - Cool shit
+  repo: KachuriLab
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# If you want to style the other sources a bit more instead of pulling them all in with orchid.yaml. They won't be duplicated.
+- id: doi:10.1038/s41591-023-02277-9
+  type: paper
+  description: This paper is given more detal in `sources.yaml` but is not highlighted
+  date: 2023-8-24
+  image: https://snipboard.io/iYBDXc.jpg
+  buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
+    - type: source
+      text: Manuscript Source
+      link: https://www.nature.com/articles/s41591-023-02277-9
+  tags:
+    - Tag
+  repo: KachuriLab

@@ -1,133 +1,863 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41576-023-00637-2
+  title: Principles and methods for transferring polygenic risk scores across global
+    populations
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Linda Kachuri
+  - Nilanjan Chatterjee
+  - Jibril Hirbo
+  - Daniel J. Schaid
+  - Iman Martin
+  - Iftikhar J. Kullo
+  - Eimear E. Kenny
+  - Bogdan Pasaniuc
+  - Paul L. Auer
+  - Matthew P. Conomos
+  - David V. Conti
+  - Yi Ding
+  - Ying Wang
+  - Haoyu Zhang
+  - Yuji Zhang
+  - John S. Witte
+  - Tian Ge
+  publisher: Nature Reviews Genetics
+  date: '2023-08-24'
+  link: https://doi.org/gsrsqr
+  orcid: 0000-0002-3226-4727
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: Describe the publication with **markdown** in `citations.yaml`. Others
+    are pulled in from `orchid.yaml`, which contains your **orchid id**
+  image: https://snipboard.io/9eLJvz.jpg
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
   - type: source
     text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+    link: https://www.nature.com/articles/s41591-023-02277-9
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - PRS
+  - Genetic ancestries
+  - Cool shit
+  repo: KachuriLab
+- id: doi:10.1038/s41588-023-01377-z
+  title: Gene expression in African Americans, Puerto Ricans and Mexican Americans
+    reveals ancestry-specific patterns of genetic architecture
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Linda Kachuri
+  - Angel C. Y. Mak
+  - Donglei Hu
+  - Celeste Eng
+  - Scott Huntsman
+  - Jennifer R. Elhawary
+  - Namrata Gupta
+  - Stacey Gabriel
+  - Shujie Xiao
+  - Kevin L. Keys
+  - Akinyemi Oni-Orisan
+  - "Jos\xE9 R. Rodr\xEDguez-Santana"
+  - Michael A. LeNoir
+  - Luisa N. Borrell
+  - Noah A. Zaitlen
+  - L. Keoki Williams
+  - Christopher R. Gignoux
+  - "Esteban Gonz\xE1lez Burchard"
+  - Elad Ziv
+  publisher: Nature Genetics
+  date: '2023-05-25'
+  link: https://doi.org/gr9fq8
+  orcid: 0000-0002-3226-4727
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41591-023-02277-9
+  title: Genetically adjusted PSA levels for prostate cancer screening
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Linda Kachuri
+  - Thomas J. Hoffmann
+  - Yu Jiang
+  - Sonja I. Berndt
+  - John P. Shelley
+  - Kerry R. Schaffer
+  - Mitchell J. Machiela
+  - Neal D. Freedman
+  - Wen-Yi Huang
+  - Shengchao A. Li
+  - Ryder Easterlin
+  - Phyllis J. Goodman
+  - Cathee Till
+  - Ian Thompson
+  - Hans Lilja
+  - Stephen K. Van Den Eeden
+  - Stephen J. Chanock
+  - Christopher A. Haiman
+  - David V. Conti
+  - Robert J. Klein
+  - Jonathan D. Mosley
+  - Rebecca E. Graff
+  - John S. Witte
+  publisher: Nature Medicine
+  date: '2023-08-24'
+  link: https://doi.org/gsb2r4
+  orcid: 0000-0002-3226-4727
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  type: paper
+  description: This paper is given more detal in `sources.yaml` but is not highlighted
+  image: https://snipboard.io/iYBDXc.jpg
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://www.nature.com/articles/s41591-023-02277-9
+  tags:
+  - Tag
+  repo: KachuriLab
+- id: doi:10.1101/2023.05.04.23289526
+  title: Transcriptome-Wide Association Analysis Identifies Novel Candidate Susceptibility
+    Genes for Prostate-Specific Antigen Levels in Men Without Prostate Cancer
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Dorothy M. Chen
+  - Ruocheng Dong
+  - Linda Kachuri
+  - Thomas Hoffmann
+  - Yu Jiang
+  - Sonja I. Berndt
+  - John P. Shelley
+  - Kerry R. Schaffer
+  - Mitchell J. Machiela
+  - Neal D. Freedman
+  - Wen-Yi Huang
+  - Shengchao A. Li
+  - Hans Lilja
+  - Stephen K. Van Den Eeden
+  - Stephen Chanock
+  - Christopher A. Haiman
+  - David V. Conti
+  - Robert J. Klein
+  - Jonathan D. Mosley
+  - John S. Witte
+  - Rebecca E. Graff
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-05'
+  link: https://doi.org/gr9q24
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1158/0008-5472.c.6513064.v1
+  title: Data from A Large-Scale Association Study Detects Novel Rare Variants, Risk
+    Genes, Functional Elements, and Polygenic Architecture of Prostate Cancer Susceptibility
+  authors:
+  - Nima C. Emami
+  - Taylor B. Cavazos
+  - Sara R. Rashkin
+  - Clinton L. Cario
+  - Rebecca E. Graff
+  - Caroline G. Tai
+  - Joel A. Mefford
+  - Linda Kachuri
+  - Eunice Wan
+  - Simon Wong
+  - David Aaronson
+  - Joseph Presti
+  - Laurel A. Habel
+  - Jun Shan
+  - Dilrini K. Ranatunga
+  - Chun R. Chao
+  - Nirupa R. Ghai
+  - Eric Jorgenson
+  - Lori C. Sakoda
+  - Mark N. Kvale
+  - Pui-Yan Kwok
+  - Catherine Schaefer
+  - Neil Risch
+  - Thomas J. Hoffmann
+  - Stephen K. Van Den Eeden
+  - John S. Witte
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/gsrsqt
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1158/0008-5472.c.6513064
+  title: Data from A Large-Scale Association Study Detects Novel Rare Variants, Risk
+    Genes, Functional Elements, and Polygenic Architecture of Prostate Cancer Susceptibility
+  authors:
+  - Nima C. Emami
+  - Taylor B. Cavazos
+  - Sara R. Rashkin
+  - Clinton L. Cario
+  - Rebecca E. Graff
+  - Caroline G. Tai
+  - Joel A. Mefford
+  - Linda Kachuri
+  - Eunice Wan
+  - Simon Wong
+  - David Aaronson
+  - Joseph Presti
+  - Laurel A. Habel
+  - Jun Shan
+  - Dilrini K. Ranatunga
+  - Chun R. Chao
+  - Nirupa R. Ghai
+  - Eric Jorgenson
+  - Lori C. Sakoda
+  - Mark N. Kvale
+  - Pui-Yan Kwok
+  - Catherine Schaefer
+  - Neil Risch
+  - Thomas J. Hoffmann
+  - Stephen K. Van Den Eeden
+  - John S. Witte
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/gsrsqv
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1158/0008-5472.22428541.v1
+  title: Supplementary Data from A Large-Scale Association Study Detects Novel Rare
+    Variants, Risk Genes, Functional Elements, and Polygenic Architecture of Prostate
+    Cancer Susceptibility
+  authors:
+  - Nima C. Emami
+  - Taylor B. Cavazos
+  - Sara R. Rashkin
+  - Clinton L. Cario
+  - Rebecca E. Graff
+  - Caroline G. Tai
+  - Joel A. Mefford
+  - Linda Kachuri
+  - Eunice Wan
+  - Simon Wong
+  - David Aaronson
+  - Joseph Presti
+  - Laurel A. Habel
+  - Jun Shan
+  - Dilrini K. Ranatunga
+  - Chun R. Chao
+  - Nirupa R. Ghai
+  - Eric Jorgenson
+  - Lori C. Sakoda
+  - Mark N. Kvale
+  - Pui-Yan Kwok
+  - Catherine Schaefer
+  - Neil Risch
+  - Thomas J. Hoffmann
+  - Stephen K. Van Den Eeden
+  - John S. Witte
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/gsrsqw
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1158/0008-5472.22428541
+  title: Supplementary Data from A Large-Scale Association Study Detects Novel Rare
+    Variants, Risk Genes, Functional Elements, and Polygenic Architecture of Prostate
+    Cancer Susceptibility
+  authors:
+  - Nima C. Emami
+  - Taylor B. Cavazos
+  - Sara R. Rashkin
+  - Clinton L. Cario
+  - Rebecca E. Graff
+  - Caroline G. Tai
+  - Joel A. Mefford
+  - Linda Kachuri
+  - Eunice Wan
+  - Simon Wong
+  - David Aaronson
+  - Joseph Presti
+  - Laurel A. Habel
+  - Jun Shan
+  - Dilrini K. Ranatunga
+  - Chun R. Chao
+  - Nirupa R. Ghai
+  - Eric Jorgenson
+  - Lori C. Sakoda
+  - Mark N. Kvale
+  - Pui-Yan Kwok
+  - Catherine Schaefer
+  - Neil Risch
+  - Thomas J. Hoffmann
+  - Stephen K. Van Den Eeden
+  - John S. Witte
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-03-31'
+  link: https://doi.org/gsrsqx
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2022.04.18.22273850
+  title: Genetically Adjusted PSA Levels for Prostate Cancer Screening
+  authors:
+  - Linda Kachuri
+  - Thomas J. Hoffmann
+  - Yu Jiang
+  - Sonja I. Berndt
+  - John P. Shelley
+  - Kerry Schaffer
+  - Mitchell J. Machiela
+  - Neal D. Freedman
+  - Wen-Yi Huang
+  - Shengchao A. Li
+  - Ryder Easterlin
+  - Phyllis J. Goodman
+  - Cathee Till
+  - Ian Thompson
+  - Hans Lilja
+  - Stephen K. Van Den Eeden
+  - Stephen J. Chanock
+  - Christopher A. Haiman
+  - David V. Conti
+  - Robert J. Klein
+  - Jonathan D. Mosley
+  - Rebecca E. Graff
+  - John S. Witte
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-21'
+  link: https://doi.org/gsrsqz
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2022.02.19.481174
+  title: Inverted genomic regions between reference genome builds in humans impact
+    imputation accuracy and decrease the power of association testing
+  authors:
+  - Xin Sheng
+  - Lucy Xia
+  - David V. Conti
+  - Christopher A. Haiman
+  - Linda Kachuri
+  - Charleston W. K. Chiang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-20'
+  link: https://doi.org/gsrsq2
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2022.02.11.22270688
+  title: Assessment of Genetic Susceptibility to Multiple Primary Cancers through
+    Whole-Exome Sequencing in Two Large Multi-Ancestry Studies
+  authors:
+  - Taylor B. Cavazos
+  - Linda Kachuri
+  - Rebecca E. Graff
+  - Jovia L. Nierenberg
+  - Khanh K. Thai
+  - Stacey Alexeeff
+  - Stephen Van Den Eeden
+  - Douglas A. Corley
+  - Lawrence H. Kushi
+  - Thomas J. Hoffmann
+  - Elad Ziv
+  - Laurie Habel
+  - Eric Jorgenson
+  - Lori C. Sakoda
+  - John S. Witte
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-15'
+  link: https://doi.org/gsrsq4
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1016/j.ajhg.2021.08.004
+  title: Genetic determinants of blood-cell traits influence susceptibility to childhood
+    acute lymphoblastic leukemia
+  authors:
+  - Linda Kachuri
+  - Soyoung Jeon
+  - Andrew T. DeWan
+  - Catherine Metayer
+  - Xiaomei Ma
+  - John S. Witte
+  - Charleston W.K. Chiang
+  - Joseph L. Wiemels
+  - Adam J. de Smith
+  publisher: The American Journal of Human Genetics
+  date: '2021-10-01'
+  link: https://doi.org/gsrsq5
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2021.09.13.21263349
+  title: The immunogenetics of viral antigen response is associated with sub-type
+    specific glioma risk and survival
+  authors:
+  - Geno Guerra
+  - Linda Kachuri
+  - George Wendt
+  - Helen M. Hansen
+  - Steven J. Mack
+  - Annette M. Molinaro
+  - Terri Rice
+  - Paige Bracci
+  - John K. Wiencke
+  - Nori Kasahara
+  - Jeanette E Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-09-16'
+  link: https://doi.org/gsrsq6
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2021.08.30.21262305
+  title: Genetic Factors Associated with Prostate Cancer Conversion from Active Surveillance
+    to Treatment
+  authors:
+  - Yu Jiang
+  - Travis J. Meyers
+  - Adaeze A. Emeka
+  - Lauren Folgosa Cooley
+  - Phillip R. Cooper
+  - Nicola Lancki
+  - Irene Helenowski
+  - Linda Kachuri
+  - Daniel W. Lin
+  - Janet L. Stanford
+  - Lisa F. Newcomb
+  - Suzanne Kolb
+  - Antonio Finelli
+  - Neil E. Fleshner
+  - Maria Komisarenko
+  - James A. Eastham
+  - Behfar Ehdaie
+  - Nicole Benfante
+  - Christopher J. Logothetis
+  - Justin R. Gregg
+  - Cherie A. Perez
+  - Sergio Garza
+  - Jeri Kim
+  - Leonard S. Marks
+  - Merdie Delfin
+  - Danielle Barsa
+  - Danny Vesprini
+  - Laurence H. Klotz
+  - Andrew Loblaw
+  - Alexandre Mamedov
+  - S. Larry Goldenberg
+  - Celestia S. Higano
+  - Maria Spillane
+  - Eugenia Wu
+  - H. Ballentine Carter
+  - Christian P. Pavlovich
+  - Mufaddal Mamawala
+  - Tricia Landis
+  - Peter R. Carroll
+  - June M. Chan
+  - Matthew R. Cooperberg
+  - Janet E. Cowan
+  - Todd M. Morgan
+  - Javed Siddiqui
+  - Rabia Martin
+  - Eric A. Klein
+  - Karen Brittain
+  - Paige Gotwald
+  - Daniel A. Barocas
+  - Jeremiah R. Dallmer
+  - Jennifer B. Gordetsky
+  - Pam Steele
+  - Shilajit D. Kundu
+  - Jazmine Stockdale
+  - Monique J. Roobol
+  - Lionne D.F. Venderbos
+  - Martin G. Sanda
+  - Rebecca Arnold
+  - Dattatraya Patil
+  - Christopher P. Evans
+  - "Marc A. Dall\u2019Era"
+  - Anjali Vij
+  - Anthony J. Costello
+  - Ken Chow
+  - Niall M. Corcoran
+  - Soroush Rais-Bahrami
+  - Courtney Phares
+  - Douglas S. Scherr
+  - Thomas Flynn
+  - R. Jeffrey Karnes
+  - Michael Koch
+  - Courtney Rose Dhondt
+  - Joel B. Nelson
+  - Dawn McBride
+  - Michael S. Cookson
+  - Kelly L. Stratton
+  - Stephen Farriester
+  - Erin Hemken
+  - Walter M. Stadler
+  - Tuula Pera
+  - Deimante Banionyte
+  - Fernando J. Bianco
+  - Isabel H. Lopez
+  - Stacy Loeb
+  - Samir S. Taneja
+  - Nataliya Byrne
+  - Christopher L. Amling
+  - Ann Martinez
+  - Luc Boileau
+  - Franklin D. Gaylis
+  - Jacqueline Petkewicz
+  - Nicholas Kirwen
+  - Brian T. Helfand
+  - Jianfeng Xu
+  - Denise M. Scholtens
+  - William J. Catalona
+  - John S. Witte
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-08-31'
+  link: https://doi.org/gsrsq7
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2021.08.19.456901
+  title: Gene expression in African Americans and Latinos reveals ancestry-specific
+    patterns of genetic architecture
+  authors:
+  - Linda Kachuri
+  - Angel C.Y. Mak
+  - Donglei Hu
+  - Celeste Eng
+  - Scott Huntsman
+  - Jennifer R. Elhawary
+  - Namrata Gupta
+  - Stacey Gabriel
+  - Shujie Xiao
+  - Kevin L. Keys
+  - Akinyemi Oni-Orisan
+  - "Jos\xE9 R. Rodr\xEDguez-Santana"
+  - Michael LeNoir
+  - Luisa N. Borrell
+  - Noah A. Zaitlen
+  - L. Keoki Williams
+  - Christopher R. Gignoux
+  - "Esteban Gonz\xE1lez Burchard"
+  - Elad Ziv
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-08-19'
+  link: https://doi.org/gsrsq8
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2021.04.17.21255679
+  title: Genetic Determinants of Blood Cell Traits Influence Susceptibility to Childhood
+    Acute Lymphoblastic Leukemia
+  authors:
+  - Linda Kachuri
+  - Soyoung Jeon
+  - Andrew T. DeWan
+  - Catherine Metayer
+  - Xiaomei Ma
+  - John S. Witte
+  - Charleston W. K. Chiang
+  - Joseph L. Wiemels
+  - Adam J. de Smith
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-04-23'
+  link: https://doi.org/gsrsq9
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1158/0008-5472.CAN-20-2635
+  title: A Large-Scale Association Study Detects Novel Rare Variants, Risk Genes,
+    Functional Elements, and Polygenic Architecture of Prostate Cancer Susceptibility
+  authors:
+  - Nima C. Emami
+  - Taylor B. Cavazos
+  - Sara R. Rashkin
+  - Clinton L. Cario
+  - Rebecca E. Graff
+  - Caroline G. Tai
+  - Joel A. Mefford
+  - Linda Kachuri
+  - Eunice Wan
+  - Simon Wong
+  - David Aaronson
+  - Joseph Presti
+  - Laurel A. Habel
+  - Jun Shan
+  - Dilrini K. Ranatunga
+  - Chun R. Chao
+  - Nirupa R. Ghai
+  - Eric Jorgenson
+  - Lori C. Sakoda
+  - Mark N. Kvale
+  - Pui-Yan Kwok
+  - Catherine Schaefer
+  - Neil Risch
+  - Thomas J. Hoffmann
+  - Stephen K. Van Den Eeden
+  - John S. Witte
+  publisher: Cancer Research
+  date: '2020-12-08'
+  link: https://doi.org/gsrsrb
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1002/ijc.33164
+  title: "Insecticide use and risk of non\u2010Hodgkin lymphoma subtypes: A subset\
+    \ meta\u2010analysis of the North American Pooled Project"
+  authors:
+  - Linda Kachuri
+  - Laura E. Beane Freeman
+  - John J. Spinelli
+  - Aaron Blair
+  - Manisha Pahwa
+  - Stella Koutros
+  - Shelia Hoar Zahm
+  - Kenneth P. Cantor
+  - Dennis D. Weisenburger
+  - Punam Pahwa
+  - James A. Dosman
+  - John R. McLaughlin
+  - Paul A. Demers
+  - Shelley A. Harris
+  publisher: International Journal of Cancer
+  date: '2020-07-31'
+  link: https://doi.org/gsrsrc
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2020.05.01.20088054
+  title: The landscape of host genetic factors involved in immune response to common
+    viral infections
+  authors:
+  - Linda Kachuri
+  - Stephen S. Francis
+  - Maike Morrison
+  - George A. Wendt
+  - "Yohan Boss\xE9"
+  - Taylor B. Cavazos
+  - Sara R. Rashkin
+  - Elad Ziv
+  - John S. Witte
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-07'
+  link: https://doi.org/ghc6xp
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2020.02.12.929463
+  title: Association Study of Over 200,000 Subjects Detects Novel Rare Variants, Functional
+    Elements, and Polygenic Architecture of Prostate Cancer Susceptibility
+  authors:
+  - Nima C. Emami
+  - Taylor B. Cavazos
+  - Sara R. Rashkin
+  - Clinton L. Cario
+  - Rebecca E. Graff
+  - Caroline G. Tai
+  - Joel A. Mefford
+  - Linda Kachuri
+  - Eunice Wan
+  - Simon Wong
+  - David S. Aaronson
+  - Joseph Presti
+  - Laurel A. Habel
+  - Jun Shan
+  - Dilrini K. Ranatunga
+  - Chun R. Chao
+  - Nirupa R. Ghai
+  - Eric Jorgenson
+  - Lori C. Sakoda
+  - Mark N. Kvale
+  - Pui-Yan Kwok
+  - Catherine Schaefer
+  - Neil Risch
+  - Thomas J. Hoffmann
+  - Stephen K. Van Den Eeden
+  - John S. Witte
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-12'
+  link: https://doi.org/gk3cj5
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2020.01.28.922088
+  title: Pan-cancer analysis demonstrates that integrating polygenic risk scores with
+    modifiable risk factors improves risk prediction
+  authors:
+  - Linda Kachuri
+  - Rebecca E. Graff
+  - Karl Smith-Byrne
+  - Travis J. Meyers
+  - Sara R. Rashkin
+  - Elad Ziv
+  - John S. Witte
+  - Mattias Johansson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-01-29'
+  link: https://doi.org/gktwqg
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2020.01.18.911578
+  title: Cross-Cancer Evaluation of Polygenic Risk Scores for 17 Cancer Types in Two
+    Large Cohorts
+  authors:
+  - Rebecca E. Graff
+  - Taylor B. Cavazos
+  - Khanh K. Thai
+  - Linda Kachuri
+  - Sara R. Rashkin
+  - Joshua D. Hoffman
+  - Stacey E. Alexeeff
+  - Maruta Blatchins
+  - Travis J. Meyers
+  - Lancelote Leong
+  - Caroline G. Tai
+  - Nima C. Emami
+  - Douglas A. Corley
+  - Lawrence H. Kushi
+  - Elad Ziv
+  - Stephen K. Van Den Eeden
+  - Eric Jorgenson
+  - Thomas J. Hoffmann
+  - Laurel A. Habel
+  - John S. Witte
+  - Lori C. Sakoda
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-01-19'
+  link: https://doi.org/gkt936
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1093/ije/dyy140
+  title: Mendelian Randomization and mediation analysis of leukocyte telomere length
+    and risk of lung and head and neck cancers
+  authors:
+  - Linda Kachuri
+  - Olli Saarela
+  - Stig Egil Bojesen
+  - George Davey Smith
+  - Geoffrey Liu
+  - Maria Teresa Landi
+  - Neil E Caporaso
+  - David C Christiani
+  - Mattias Johansson
+  - Salvatore Panico
+  - Kim Overvad
+  - Antonia Trichopoulou
+  - Paolo Vineis
+  - Ghislaine Scelo
+  - David Zaridze
+  - Xifeng Wu
+  - Demetrius Albanes
+  - Brenda Diergaarde
+  - Pagona Lagiou
+  - Gary J Macfarlane
+  - Melinda C Aldrich
+  - "Adonina Tard\xF3n"
+  - Gad Rennert
+  - Andrew F Olshan
+  - Mark C Weissler
+  - Chu Chen
+  - Gary E Goodman
+  - Jennifer A Doherty
+  - Andrew R Ness
+  - "Heike Bickeb\xF6ller"
+  - H-Erich Wichmann
+  - Angela Risch
+  - John K Field
+  - M Dawn Teare
+  - Lambertus A Kiemeney
+  - Erik H F M van der Heijden
+  - June C Carroll
+  - Aage Haugen
+  - Shanbeh Zienolddiny
+  - Vidar Skaug
+  - "Victor W\xFCnsch-Filho"
+  - Eloiza H Tajara
+  - "Raquel Ayoub Moys\xE9s"
+  - Fabio Daumas Nunes
+  - Stephen Lam
+  - Jose Eluf-Neto
+  - Martin Lacko
+  - Wilbert H M Peters
+  - "Lo\xEFc Le Marchand"
+  - Eric J Duell
+  - Angeline S Andrew
+  - Silvia Franceschi
+  - Matthew B Schabath
+  - Jonas Manjer
+  - Susanne Arnold
+  - Philip Lazarus
+  - Anush Mukeriya
+  - Beata Swiatkowska
+  - Vladimir Janout
+  - Ivana Holcatova
+  - Jelena Stojsic
+  - Dana Mates
+  - Jolanta Lissowska
+  - Stefania Boccia
+  - Corina Lesseur
+  - Xuchen Zong
+  - James D McKay
+  - Paul Brennan
+  - Christopher I Amos
+  - Rayjean J Hung
+  publisher: International Journal of Epidemiology
+  date: '2018-07-28'
+  link: https://doi.org/gfb8x3
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1186/s12885-017-3346-x
+  title: 'Cancer risks in a population-based study of 70,570 agricultural workers:
+    results from the Canadian census health and Environment cohort (CanCHEC)'
+  authors:
+  - Linda Kachuri
+  - M. Anne Harris
+  - Jill S. MacLeod
+  - Michael Tjepkema
+  - Paul A. Peters
+  - Paul A. Demers
+  publisher: BMC Cancer
+  date: '2017-05-19'
+  link: https://doi.org/ggm8bx
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1186/s12940-016-0088-1
+  title: Workplace exposure to diesel and gasoline engine exhausts and the risk of
+    colorectal cancer in Canadian men
+  authors:
+  - Linda Kachuri
+  - Paul J. Villeneuve
+  - "Marie-\xC9lise Parent"
+  - Kenneth C. Johnson
+  - Shelley A. Harris
+  publisher: Environmental Health
+  date: '2016-01-14'
+  link: https://doi.org/f7636w
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png

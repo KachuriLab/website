@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Linda Kachuri
+image: images/linda-kachuri.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - L. Kachuri
+  - L Kachuri
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://profiles.stanford.edu/linda-kachuri
+  orcid: 0000-0002-3226-4727
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

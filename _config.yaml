@@ -1,15 +1,15 @@
 # site properties and page defaults
 title: KachuriLab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: 1-3 sentence description of the lab.
+header: images/background_top.png
+footer: images/background_bottom.png
 
 # site social media and other links
 links:
-  email: contact@KachuriLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: lkachuri@stanford.edu
+  orcid: 0000-0002-3226-4727
+  google-scholar: 8MR7AAgAAAAJ
   github: KachuriLab
   twitter: KachuriLab
   youtube: KachuriLab
@@ -55,6 +55,7 @@ highlighter: rouge
 
 # jekyll theme
 theme: null
+baseurl: "/jekyll-serif-theme/"
 
 # sass settings
 sass:

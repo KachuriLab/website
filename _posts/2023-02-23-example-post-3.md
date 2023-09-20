@@ -1,6 +1,6 @@
 ---
-title: Example post 3
-author: john-doe
+title: Example post 2
+author: linda-kachuri
 tags: biology, medicine
 ---
 

@@ -157,6 +157,9 @@ for index, source in enumerate(sources):
     if get_safe(citation, "date", ""):
         citation["date"] = format_date(get_safe(citation, "date", ""))
 
+    # Generic image for citations
+    citation["image"] = citation.get("image", "/images/generic_publication.png")
+
     # add new citation to list
     citations.append(citation)
 
