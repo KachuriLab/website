@@ -28,8 +28,9 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Describe the publication with **markdown** in `citations.yaml`. Others
-    are pulled in from `orchid.yaml`, which contains your **orchid id**
+  description: You can manually describe publications with **markdown** in `sources.yaml`.
+    By specifying your **orchid id** in `orchid.yaml`, the website can also automatically
+    find your publications. **Highlighted manuscripts** are defined in `publications/index.md`
   image: images/publications/principles.png
   buttons:
   - type: manubot
