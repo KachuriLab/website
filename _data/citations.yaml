@@ -1,5 +1,241 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-025-55919-6
+  title: Genetic predisposition to altered blood cell homeostasis is associated with
+    glioma risk and survival
+  authors:
+  - Linda Kachuri
+  - Geno A. Guerra
+  - Taishi Nakase
+  - George A. Wendt
+  - Helen M. Hansen
+  - Annette M. Molinaro
+  - Paige Bracci
+  - Lucie McCoy
+  - Terri Rice
+  - John K. Wiencke
+  - Jeanette E. Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: Nature Communications
+  date: '2025-01-14'
+  link: https://doi.org/g82fnp
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1093/neuonc/noae275
+  title: Functional germline variants in DNA damage repair pathways are associated
+    with altered survival in adults with glioma treated with temozolomide
+  authors:
+  - Geno Guerra
+  - George Wendt
+  - Lucie McCoy
+  - Helen M Hansen
+  - Linda Kachuri
+  - Annette M Molinaro
+  - Terri Rice
+  - Victoria Guan
+  - Lianne Capistrano
+  - Allison Hsieh
+  - Veruna Kalsi
+  - Jaimie Sallee
+  - Jennie W Taylor
+  - Jennifer L Clarke
+  - Eduardo Rodriguez Almaraz
+  - John K Wiencke
+  - Jeanette E Eckel-Passow
+  - Robert B Jenkins
+  - Margaret Wrensch
+  - Stephen S Francis
+  publisher: Neuro-Oncology
+  date: '2025-01-02'
+  link: https://doi.org/g8xbcz
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41366-024-01609-0
+  title: Polygenic score for body mass index in relation to mortality among patients
+    with renal cell cancer
+  authors:
+  - Zhengyi Deng
+  - Rebecca E. Graff
+  - Ken Batai
+  - Benjamin I. Chung
+  - Marvin E. Langston
+  - Linda Kachuri
+  publisher: International Journal of Obesity
+  date: '2024-08-17'
+  link: https://doi.org/gt7b6r
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.10.29.24316326
+  title: Unraveling the genetic landscape of susceptibility to multiple primary cancers
+  authors:
+  - Pooja Middha
+  - Linda Kachuri
+  - Jovia L. Nierenberg
+  - Rebecca E. Graff
+  - Taylor B. Cavazos
+  - Thomas J. Hoffmann
+  - Jie Zhang
+  - Stacey Alexeeff
+  - Laurel Habel
+  - Douglas A. Corley
+  - Stephen Van Den Eeden
+  - Lawrence H. Kushi
+  - Elad Ziv
+  - Lori C. Sakoda
+  - John S. Witte
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-30'
+  link: https://doi.org/g8pz2p
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1093/jnci/djae265
+  title: Association of immunoglobulin E levels with glioma risk and survival
+  authors:
+  - Geno Guerra
+  - Taishi Nakase
+  - Linda Kachuri
+  - Lucie McCoy
+  - Helen M Hansen
+  - Terri Rice
+  - Joseph L Wiemels
+  - John K Wiencke
+  - Annette M Molinaro
+  - Margaret Wrensch
+  - Stephen S Francis
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2024-10-24'
+  link: https://doi.org/g8n7r4
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.07.31.24311312
+  title: Investigating the Role of Neighborhood Socioeconomic Status and Germline
+    Genetics on Prostate Cancer Risk
+  authors:
+  - Jonathan Judd
+  - Jeffrey P. Spence
+  - Jonathan K. Pritchard
+  - Linda Kachuri
+  - John S. Witte
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-08-02'
+  link: https://doi.org/gt5z2v
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.07.16.24310519
+  title: Integration of MRI radiomics and germline genetics to predict the IDH mutation
+    status of gliomas
+  authors:
+  - Taishi Nakase
+  - Stephen S. Francis
+  - Geno Guerra
+  - Qingyu Zhao
+  - Linda Kachuri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-17'
+  link: https://doi.org/gt4w4j
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1093/neuonc/noae112
+  title: Genome-wide polygenic risk scores predict risk of glioma and molecular subtypes
+  authors:
+  - Taishi Nakase
+  - Geno A Guerra
+  - Quinn T Ostrom
+  - Tian Ge
+  - Beatrice S Melin
+  - Margaret Wrensch
+  - John K Wiencke
+  - Robert B Jenkins
+  - Jeanette E Eckel-Passow
+  - Melissa L Bondy
+  - Stephen S Francis
+  - Linda Kachuri
+  publisher: Neuro-Oncology
+  date: '2024-06-25'
+  link: https://doi.org/gt2jdb
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1038/s41467-024-48857-2
+  title: 'Ambient air pollution and urological cancer risk: A systematic review and
+    meta-analysis of epidemiological evidence'
+  authors:
+  - Jinhui Li
+  - Zhengyi Deng
+  - Simon John Christoph Soerensen
+  - Linda Kachuri
+  - Andres Cardenas
+  - Rebecca E. Graff
+  - John T. Leppert
+  - Marvin E. Langston
+  - Benjamin I. Chung
+  publisher: Nature Communications
+  date: '2024-06-15'
+  link: https://doi.org/gtzpz9
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.05.09.24307132
+  title: Association of immunoglobulin E levels with glioma risk and survival
+  authors:
+  - Geno Guerra
+  - Taishi Nakase
+  - Linda Kachuri
+  - Lucie McCoy
+  - Helen M. Hansen
+  - Terri Rice
+  - Joseph. L. Wiemels
+  - John K. Wiencke
+  - Annette M. Molinaro
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-09'
+  link: https://doi.org/gtt3rq
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2024.04.15.24305836
+  title: Improved multi-ancestry fine-mapping identifies<i>cis</i>-regulatory variants
+    underlying molecular traits and disease risk
+  authors:
+  - Zeyun Lu
+  - Xinran Wang
+  - Matthew Carr
+  - Artem Kim
+  - Steven Gazal
+  - Pejman Mohammadi
+  - Lang Wu
+  - Alexander Gusev
+  - James Pirruccello
+  - Linda Kachuri
+  - Nicholas Mancuso
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-16'
+  link: https://doi.org/gtrkzz
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
 - id: doi:10.1038/s41576-023-00637-2
   title: Principles and methods for transferring polygenic risk scores across global
     populations
@@ -42,6 +278,61 @@
   - prs
   - ancestry
   repo: KachuriLab
+- id: doi:10.1101/2023.10.15.23296448
+  title: Genetic predisposition to altered blood cell homeostasis is associated with
+    glioma risk and survival
+  authors:
+  - Linda Kachuri
+  - Geno A. Guerra
+  - George A. Wendt
+  - Helen M. Hansen
+  - Annette M. Molinaro
+  - Paige Bracci
+  - Lucie McCoy
+  - Terri Rice
+  - John K. Wiencke
+  - Jeanette E. Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-16'
+  link: https://doi.org/gswt8n
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
+- id: doi:10.1101/2023.10.13.23296963
+  title: Functional germline variants in DNA damage repair pathways are associated
+    with altered survival in adults with glioma treated with temozolomide
+  authors:
+  - Geno Guerra
+  - George Wendt
+  - Lucie McCoy
+  - Helen M. Hansen
+  - Linda Kachuri
+  - Annette M. Molinaro
+  - Terri Rice
+  - Victoria Guan
+  - Lianne Capistrano
+  - Allison Hsieh
+  - Veruna Kalsi
+  - Jaimie Sallee
+  - Jennie W. Taylor
+  - Jennifer L. Clarke
+  - Eduardo Rodriguez Almaraz
+  - John K. Wiencke
+  - Jeanette E. Eckel-Passow
+  - Robert B. Jenkins
+  - Margaret Wrensch
+  - Stephen S. Francis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-15'
+  link: https://doi.org/g8dgpb
+  orcid: 0000-0002-3226-4727
+  plugin: orcid.py
+  file: orcid.yaml
+  image: /images/generic_publication.png
 - id: doi:10.1038/s41588-023-01377-z
   title: Gene expression in African Americans, Puerto Ricans and Mexican Americans
     reveals ancestry-specific patterns of genetic architecture
